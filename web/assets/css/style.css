@@ -3,7 +3,7 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-image:linear-gradient(to right,rgb(93, 74, 97),rgb(61, 23, 34));
     color: #333;
 }
 
@@ -40,7 +40,7 @@ nav ul li a {
     max-width: 900px;
     margin: 50px auto;
     padding: 20px;
-    background: white;
+    background-image:linear-gradient(to right,rgb(137, 127, 173),rgb(168, 65, 94));
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -66,7 +66,7 @@ nav ul li a {
 }
 
 .proyecto {
-    background: #ddd;
+    background-image:linear-gradient(to right,rgb(172, 167, 201) ,rgb(165, 66, 96));
     padding: 15px;
     border-radius: 8px;
     text-align: center;
@@ -76,6 +76,7 @@ nav ul li a {
 .proyecto-img {
     max-width: 100%;
     border-radius: 8px;
+    
 }
 
 /* Pie de página */
