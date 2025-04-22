@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tudominio.netlify.app/sitemap.xml
+Sitemap: https://teclab.uct.cl/~j.estrada/ sitemap.xml
